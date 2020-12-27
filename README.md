@@ -26,6 +26,9 @@
     - [List (列表)](Note/1.4.list.md)
     - [Set (集合)](Note/1.5.set.md)
     - [Zset (有序集合)](Note/1.6.zset.md)
+
+(更新到此)
+
 - [HyperLogLog](Note/1.7.HyperLogLog.md)
 - [发布订阅](Note/1.8.发布订阅.md)
 - [事务](Note/1.9.事务.md)
